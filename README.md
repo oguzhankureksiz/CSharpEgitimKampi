@@ -40,3 +40,6 @@ Bu projede, C# ile veritabanı bağlantısı kurmayı öğrendim. SqlConnection 
 
 Her projede kazandığım deneyimler sayesinde C# diline olan hakimiyetimi geliştirdim ve yazılım dünyasında sağlam temeller attım. 🚀
 
+✨ Proje 10: Menü Sipariş İşlem Paneli
+
+Bu projede, temel CRUD (Create, Read, Update, Delete) işlemlerini uygulayarak bir veritabanı ile etkileşim sağladım. SQL bağlantısı aracılığıyla ürün ve kategori bilgilerini ekleme, listeleme, güncelleme ve silme işlemlerini gerçekleştirdim. Bu süreçte, SQL komutları kullanarak veritabanına veri ekleme ve sorgulama konularında deneyim kazandım. Ayrıca, ürün bilgilerinin düzenlenmesiyle daha esnek ve yönetilebilir bir yapı oluşturmayı öğrendim. 📊
